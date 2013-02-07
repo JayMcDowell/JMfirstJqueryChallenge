@@ -1,0 +1,1 @@
+This is the first Exercise using Jquery.  I found an article on animation that helped me use the filter:{':not(:animated)') command.  http://css-tricks.com/examples/jQueryStop/
